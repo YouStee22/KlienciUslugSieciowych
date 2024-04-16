@@ -1,6 +1,6 @@
 Klienci Usług Sieciowych
 
-Projekt wykonany na rozmowę kwalifikacyjną. Głównym zadaniem było wykorzystanie API do pobierania informacji o pogodzie, kursie wymiany walut czy kursie PLN w kraju podanym przez użytkownika.
+Projekt wykonany na rozmowę kwalifikacyjną. Głównym zadaniem było wykorzystanie API do pobierania informacji o pogodzie, kursie wymiany walut, kursie PLN w kraju podanym przez użytkownika oraz wyświetleniu w wikipedii informacji o mieście.
 
 Użyte techonolgie:
  - Java ♨️
